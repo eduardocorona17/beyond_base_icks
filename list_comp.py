@@ -14,3 +14,8 @@ comprehend = [n // 2 for n in [10, 9, 8, 7, 6, 5, 4] if n % 2 == 0]
 print(comprehend)
 comprehend = [n / 2 for n in [10, 9, 8, 7, 6, 5, 4]]
 print(comprehend)
+
+def invert(lst):
+   return [i * -1 for i in lst]
+this = invert([5, -3, 4])
+print(this)
