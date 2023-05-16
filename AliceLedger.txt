@@ -1,0 +1,5 @@
+Balance is 0
+Deposit 120
+Balance is 120
+Withdraw 40
+Balance is 80
