@@ -15,3 +15,5 @@ def count_book_points(books):
         if 'by Al Sweigart' in book:    # 1 step
             points += 1                 # 1 step
     return points                       # 1 step
+
+
